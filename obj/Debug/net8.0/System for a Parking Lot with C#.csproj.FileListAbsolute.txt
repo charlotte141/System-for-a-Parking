@@ -1,0 +1,14 @@
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\bin\Debug\net8.0\System for a Parking Lot with C#.exe
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\bin\Debug\net8.0\System for a Parking Lot with C#.deps.json
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\bin\Debug\net8.0\System for a Parking Lot with C#.runtimeconfig.json
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\bin\Debug\net8.0\System for a Parking Lot with C#.dll
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\bin\Debug\net8.0\System for a Parking Lot with C#.pdb
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.AssemblyInfoInputs.cache
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.AssemblyInfo.cs
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.csproj.CoreCompileInputs.cache
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.dll
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\refint\System for a Parking Lot with C#.dll
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.pdb
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\System for a Parking Lot with C#.genruntimeconfig.cache
+C:\Users\delci\OneDrive\Documentos\C#\System for a Parking Lot with C#\obj\Debug\net8.0\ref\System for a Parking Lot with C#.dll
