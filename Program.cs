@@ -1,10 +1,7 @@
 ﻿using DesafioFundamentos.Models;
 
-
 decimal precoInicial;
 decimal precoPorHora;
-int indice = 0;
-
 
 Console.WriteLine("Seja bem vindo ao sistema de estacionamento!");
 
@@ -16,6 +13,7 @@ precoPorHora = Convert.ToDecimal(Console.ReadLine());
 
 Estacionamento estacionamento = new Estacionamento(precoInicial, precoPorHora);
 
+int indice = 0;
 while(indice != 4){
 
     Console.Clear();
@@ -43,7 +41,7 @@ while(indice != 4){
             Console.ReadKey();
             break;
         default:
-            Console.WriteLine("A Opção selecionada não existe");
+            Console.WriteLine("A opção selecionada não existe");
             break;
     }
 }
